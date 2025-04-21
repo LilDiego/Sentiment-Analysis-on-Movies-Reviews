@@ -1,5 +1,4 @@
-# Sprint Project 05
-> Sentiment Analysis on Movies Reviews
+# Sentiment Analysis on Movies Reviews
 
 ## The Business problem
 
