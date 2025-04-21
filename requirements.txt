@@ -1,0 +1,13 @@
+beautifulsoup4
+black[jupyter]
+flake8
+gdown
+gensim
+isort
+matplotlib
+nltk
+numpy
+pandas
+pytest
+scikit_learn
+spacy
